@@ -16,7 +16,7 @@ This project is a **Smart Energy Monitoring System** that allows users to **trac
 ✅ **Power Efficiency Insights** – Helps in identifying high energy-consuming devices.  
 
 ---
-
+ 
 ## 🛠️ Hardware & Components
 | Component         | Specification       |
 |------------------|--------------------|
